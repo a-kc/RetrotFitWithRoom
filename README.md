@@ -1,0 +1,5 @@
+- Retrofit APIs
+- Room Database
+- Dependency Inject Hilt
+- MVVM Architecture
+- Data Binding & ViewBinding
