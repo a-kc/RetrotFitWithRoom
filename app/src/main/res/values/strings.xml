@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetroFitWithRoom</string>
+    <string name="employee_name">Employee name : </string>
+    <string name="employee_salary">Employee Salary : </string>
+    <string name="add_employee">Add Employee</string>
+    <string name="enter_employee_details">Enter Employee Details</string>
+    <string name="employee_age">Employee Age</string>
+</resources>
